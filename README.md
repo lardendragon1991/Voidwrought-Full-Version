@@ -250,4 +250,4 @@ This repository serves as the official landing page for Voidwrought. The softwar
 **Get the most recent version of Voidwrought today!**
 
 ---
-**Last updated:** 2026-10-17 11:21:16 UTC
+**Last updated:** 2026-10-17 14:55:58 UTC
